@@ -1,1 +1,2 @@
 # Electric-vehicle-data-analysis
+This Electric Vehicle Data Analysis dashboard provides insights into EV adoption trends, highlighting total vehicles by model year, make, and state. It features detailed statistics on BEVs and PHEVs, including average electric range and CAFV eligibility. Key visualizations include top vehicle makes, model distribution, and geographical spread. Developed using advanced data visualization tools for comprehensive market analysis.
